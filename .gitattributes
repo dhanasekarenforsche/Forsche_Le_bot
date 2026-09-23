@@ -1,0 +1,12 @@
+# Keep ROS, Python, YAML, and launch files compatible with Ubuntu.
+* text=auto eol=lf
+
+# Binary robot assets must never be line-ending normalized.
+*.stl binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bag binary
+*.db3 binary
+*.mcap binary
+

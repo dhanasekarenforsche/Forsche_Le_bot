@@ -1,0 +1,41 @@
+# ROS 2 generated output
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Runtime data and local configuration
+*.log
+*.bag
+*.db3
+*.mcap
+recordings/
+captures/
+.env
+.env.*
+
+# Native build products
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+

@@ -5,6 +5,19 @@
 Prove the Windows vision pipeline and Ubuntu ROS baseline independently. Do not
 connect the two systems and do not perform robot motion in this phase.
 
+## Schedule and deadline
+
+- Start: Thursday, 24 September 2026
+- Capacity: 2 focused hours per person per day
+- AI-1 estimate: 6–8 focused hours (3–4 working days)
+- ROS-1 estimate: 8–10 focused hours (4–5 working days)
+- Midpoint checkpoint: Monday, 28 September 2026
+- Final deadline: Wednesday, 30 September 2026, end of day IST
+
+Both tasks run in parallel. At the midpoint checkpoint, report completed work,
+test results, remaining work, and blockers. Raise a blocker on the same day it
+is found; do not wait until the deadline.
+
 ## What to study
 
 ### Dhanasekaren
